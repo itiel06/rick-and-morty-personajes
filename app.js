@@ -77,7 +77,7 @@ nose(entrarpersonaje.value)
 
 //desde itiel itachi dev
 
-
+// Desde emil dev
 
 
 //esto es un comentario de la supremaca de mordekaiser
