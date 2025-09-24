@@ -75,7 +75,7 @@ nose(entrarpersonaje.value)
 
 ) 
 
-
+//desde itiel itachi dev
 
 
 
