@@ -1,0 +1,126 @@
+body {
+background-image: url(petro-kosariekov-portal-gun-rick-and-morty2-2.gif);
+background-position: center; 
+
+}
+
+h1 {
+color: red;
+background-color: aliceblue;
+
+}
+
+
+.contenedor2 {
+margin: 7px;
+display: inline-block ;
+padding: 10px ; 
+border-radius: 10px;
+box-shadow: 8px 8px 5px -3px rgba(0, 0, 0, 0.44);
+border: solid rgb(green, green, rgb(18, 216, 0));
+background: rgb(153, 255, 0);
+background: linear-gradient(0deg,rgb(59, 252, 0) 0%, rgb(20, 182, 5) 21%, rgb(92, 255, 133) 56%);
+
+}
+
+.contenedor4 {
+margin:  7px;
+display: inline-block;
+padding: 10px;
+border-radius: 10px;
+box-shadow: 8px 8px 8px 8px;
+border:  solid rgb(green, green, rgb(18, 216, 0));
+background-color: none;
+background: linear-gradient(0deg,rgba(65, 255, 8, 0) 0%, rgba(20, 182, 5, 0.315) 21%, rgba(92, 255, 133, 0.63) 56%);
+
+
+
+
+}
+
+.text {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 20px ;
+border-bottom: rgb(5, 5, 5) 5px solid ;
+margin-bottom: -20px;
+text-align: center;
+}
+
+.numero {
+font-family: 'Courier New', Courier, monospace;
+background-color: aliceblue;
+color: black;
+}
+
+.image {
+border-radius: 10px 10px 10px 10px;
+box-shadow: 10px 10px 10px 10px;
+
+}
+
+.type {
+border: solid rgba(225, 225, 225, 0.156) 2px ;
+text-align: center;
+padding: 1px; ;
+color: black ;
+font-family: 'Courier New', Courier, monospace;
+font-size: 20px;
+
+}
+
+input {
+box-shadow: 10px 10px 30px 10px;
+padding: 5px;
+font-size: 16px;
+border: 2px solid #1eff00;
+border-radius: 50px;
+outline: none;
+
+}
+
+input:focus {
+border-color: #4CAF50
+
+
+
+}
+
+button {
+padding: 12px 24px;
+font-size: 18px;
+background-color:#87a0a0 ;
+color: white;
+border: none;
+border-radius: 12px;
+box-shadow: 0 4px 6px 
+
+}
+
+.footer {
+background-color: #1a1a1a;
+color: #f0f0f0;
+padding: 20px 40px;
+text-align: center;
+font-size: 14px;
+margin-top: 40px;
+}
+
+.footer a {
+  color: #f0f0f0;
+  text-decoration: none;
+  margin: 0 10px;
+  transition: color 0.3s ease;
+}
+
+.footer a:hover {
+  color: #00ffcc;
+}
+
+
+
+body{
+
+text-align: center;
+
+
+}
